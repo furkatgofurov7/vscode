@@ -1,5 +1,5 @@
 {
   "extends": [
-    "config:base"
+    "github>furkatgofurov7/renovate-config"
   ]
 }
