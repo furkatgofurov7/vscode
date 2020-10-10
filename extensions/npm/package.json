@@ -24,8 +24,8 @@
     "vscode-nls": "^4.1.1"
   },
   "devDependencies": {
-    "@types/minimatch": "^3.0.3",
-    "@types/node": "^12.11.7"
+    "@types/minimatch": "3.0.3",
+    "@types/node": "12.11.7"
   },
   "main": "./out/npmMain",
   "browser": "./dist/browser/npmBrowserMain",
