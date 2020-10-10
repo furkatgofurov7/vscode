@@ -4,7 +4,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/ansi-colors": "^3.2.0",
-    "@types/azure": "0.9.19",
+    "@types/azure": "0.9.20",
     "@types/debounce": "^1.0.0",
     "@types/eslint": "4.16.1",
     "@types/fancy-log": "^1.3.0",
