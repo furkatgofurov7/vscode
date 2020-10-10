@@ -658,7 +658,7 @@ vinyl@^2.1.0:
     remove-trailing-separator "^1.0.1"
     replace-ext "^1.0.0"
 
-vscode-gulp-watch@^5.0.2:
+vscode-gulp-watch@5.0.2:
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/vscode-gulp-watch/-/vscode-gulp-watch-5.0.2.tgz#0060ba8d091284a6fbd7e608aa318a9c1d73b840"
   integrity sha512-l2v+W3iQvxpX2ny2C7eJTd+83rQXiZ85KGY0mub/QRqUxgDc+KH/EYiw4mttzIhPzVBmxrUO4RcLNbPdccg0mQ==

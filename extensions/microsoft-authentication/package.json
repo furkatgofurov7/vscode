@@ -38,13 +38,13 @@
 		"watch-web": "npx webpack-cli --config extension-browser.webpack.config --mode none --watch --info-verbosity verbose"
 	},
 	"devDependencies": {
-		"@types/keytar": "^4.0.1",
-		"@types/node": "^10.12.21",
-		"@types/node-fetch": "^2.5.7",
-		"@types/randombytes": "^2.0.0",
-		"@types/sha.js": "^2.4.0",
-		"@types/uuid": "^8.0.0",
-		"typescript": "^3.7.4"
+		"@types/keytar": "4.4.2",
+		"@types/node": "10.17.13",
+		"@types/node-fetch": "2.5.7",
+		"@types/randombytes": "2.0.0",
+		"@types/sha.js": "2.4.0",
+		"@types/uuid": "8.0.0",
+		"typescript": "3.7.4"
 	},
 	"dependencies": {
 		"buffer": "^5.6.0",
